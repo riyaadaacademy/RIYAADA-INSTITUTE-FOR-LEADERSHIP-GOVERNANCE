@@ -32,3 +32,20 @@ Degree-Level Programmes (12 weeks)
 Executive Micro-Credentials (2–3 weeks)
 Fragile systems focus
 Mogadishu-based | Global alignment
+✅ Comment to submit on Issue #29749
+
+Clarification / additional details for RIYAADA (ROR request)
+	•	Official name (English): RIYAADA Institute for Leadership & Governance
+	•	Alias (English): RIYAADA Academy
+	•	Acronym: RIYAADA
+	•	Website: https://riyaadaacademy.com
+	•	Domains (ROR domain field): riyaadaacademy.com
+	•	Contact email: info@riyaadaacademy.com
+	•	Organization type: Education / Training institute (independent)
+	•	City: Mogadishu
+	•	Country: Somalia
+	•	GeoNames ID (Mogadishu): 53654
+	•	Year established: 2023
+WikiData: ‪Q138003758‬
+
+‪ (‬RIYAADA Institute for Leadership & Governance )
